@@ -1,4 +1,3 @@
-```markdown
 # FREEBSD IP Sabitleme ve Yazılım Kurulum Rehberi 🚀
 
 Bu README, FreeBSD üzerinde IP sabitleme, temel yapılandırmalar ve popüler araçların kurulumu için rehber niteliğindedir. 🛠️
@@ -144,7 +143,7 @@ service proftpd start
 ## Kaynaklar 📚
 
 - [FreeBSD Resmi Belgeleri](https://www.freebsd.org/)
-- [GitHub Deposu](https://github.com/mustafaakalin/1/tree/main/OSinstallation/FreeBSD/usr/local/etc)
+- [GitHub Deposu](https://github.com/mustafaakalin/FREEBSD)
 
 Herhangi bir sorunuz olursa, çekinmeden iletişime geçin! 🚀
 ```
